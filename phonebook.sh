@@ -4,7 +4,7 @@ while :
 do
 clear
 echo "Welcome to Jaike's phonebook"
-echo "hello everyone"
+echo "hello all"
 echo "1. Add new number"
 echo "2. Display  number for name"
 echo "3. List of contacts"
